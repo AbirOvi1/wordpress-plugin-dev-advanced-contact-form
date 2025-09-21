@@ -1,0 +1,21 @@
+.acf-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.acf-table th,
+.acf-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.acf-table th {
+  background: #1e90ff;
+  color: white;
+}
+
+.acf-table tr:nth-child(even) {
+  background: #f9f9f9;
+}
